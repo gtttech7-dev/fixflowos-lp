@@ -1,0 +1,29 @@
+{
+  "hero": {
+    "eyebrow": "SISTEMA DE GESTÃO PARA ASSISTÊNCIAS TÉCNICAS",
+    "titleBefore": "Sua assistência mais organizada.",
+    "titleEmphasis": "Seu negócio sob controle.",
+    "description": "Ordens de serviço, clientes, estoque, caixa, vendas, equipe e financeiro em uma plataforma feita para a rotina de quem trabalha com conserto de celulares."
+  },
+  "sections": {
+    "features": {
+      "eyebrow": "TUDO CONECTADO",
+      "title": "Menos planilhas. Mais clareza para administrar.",
+      "description": "Conheça as ferramentas do FixFlowOS e descubra como organizar as operações da assistência em um único ambiente."
+    },
+    "orders": {
+      "eyebrow": "ORDENS DE SERVIÇO",
+      "title": "Acompanhe cada conserto do início ao fim.",
+      "description": "Visualize os atendimentos em lista ou Kanban, identifique o aparelho e acompanhe a etapa de cada reparo sem perder o contexto do serviço."
+    },
+    "devices": {
+      "eyebrow": "APARELHOS DA LOJA",
+      "title": "Saiba como está o investimento em cada aparelho.",
+      "description": "Separe os celulares para revenda das OS dos clientes e acompanhe custos, preços pretendidos, lucro potencial e margem estimada."
+    }
+  },
+  "cta": {
+    "title": "Sua assistência merece uma gestão mais organizada.",
+    "description": "Conheça os recursos, compare os planos e escolha como começar com o FixFlowOS."
+  }
+}

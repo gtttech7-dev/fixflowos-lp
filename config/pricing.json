@@ -1,0 +1,99 @@
+{
+  "currency": "BRL",
+  "includedUsers": 4,
+  "recommendedPlan": "trimestral",
+  "promotion": {
+    "enabled": true,
+    "code": "BEMVINDO10",
+    "discountBRL": 10,
+    "description": "R$ 10 de desconto na primeira contratação mensal (R$ 19,90), quando elegível e aplicado no checkout Stripe. Não acumulativo com outro desconto de primeiro mês",
+    "applyToPlanId": "mensal",
+    "firstMonthPriceBRL": 19.9
+  },
+  "plans": [
+    {
+      "id": "mensal",
+      "name": "Mensal",
+      "price": 29.9,
+      "billingLabel": "/mês",
+      "details": "Período mensal; confira a renovação no checkout",
+      "description": "Flexibilidade para começar e manter sua gestão em dia.",
+      "benefits": [
+        "4 usuários ativos incluídos",
+        "Ordens de serviço e clientes",
+        "Estoque, vendas, caixa e financeiro",
+        "Relatórios e gestão de equipe"
+      ],
+      "paymentMethods": "Pix e cartão"
+    },
+    {
+      "id": "trimestral",
+      "name": "Trimestral",
+      "price": 69.9,
+      "billingLabel": "/3 meses",
+      "details": "Acesso trimestral; confira as condições de renovação",
+      "description": "Mais previsibilidade para a rotina da sua assistência.",
+      "benefits": [
+        "4 usuários ativos incluídos",
+        "Todos os recursos principais",
+        "Relatórios e histórico da loja",
+        "Pagamento a cada três meses"
+      ],
+      "paymentMethods": "Cartão de crédito"
+    },
+    {
+      "id": "anual",
+      "name": "Anual",
+      "price": 249.9,
+      "billingLabel": "/ano",
+      "details": "Acesso anual; confira as condições de renovação",
+      "description": "Uma contratação para organizar seu ano inteiro.",
+      "benefits": [
+        "4 usuários ativos incluídos",
+        "Todos os recursos principais",
+        "Gestão integrada da operação",
+        "Pagamento anual"
+      ],
+      "paymentMethods": "Cartão de crédito"
+    },
+    {
+      "id": "vitalicio",
+      "name": "Fundador vitalício",
+      "price": 599.0,
+      "billingLabel": " pagamento único",
+      "details": "Oferta limitada, sujeita a disponibilidade",
+      "description": "Acesso ao plano-base sem renovação periódica, conforme condições contratuais.",
+      "benefits": [
+        "4 usuários ativos incluídos",
+        "Recursos previstos no plano fundador",
+        "Pagamento único do plano-base",
+        "Adicionais podem ter cobrança separada"
+      ],
+      "paymentMethods": "Pix e cartão"
+    }
+  ],
+  "founderInstallments": {
+    "enabled": false,
+    "total": 700.0,
+    "count": 5,
+    "installment": 140.0
+  },
+  "addons": [
+    {
+      "extraUsers": 1,
+      "monthlyPrice": 2
+    },
+    {
+      "extraUsers": 3,
+      "monthlyPrice": 4
+    },
+    {
+      "extraUsers": 5,
+      "monthlyPrice": 7
+    },
+    {
+      "extraUsers": 10,
+      "monthlyPrice": 14
+    }
+  ]
+}

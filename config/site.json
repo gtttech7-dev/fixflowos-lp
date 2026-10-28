@@ -1,0 +1,33 @@
+{
+  "name": "FixFlowOS",
+  "tagline": "Gestão inteligente para assistências técnicas",
+  "siteUrl": "",
+  "language": "pt-BR",
+  "contactEmail": "",
+  "whatsappNumber": "5564992941121",
+  "social": {
+    "instagram": "",
+    "youtube": ""
+  },
+  "accessUrl": "https://fixflowos.vercel.app/login",
+  "trial": {
+    "enabled": false,
+    "label": "Teste grátis por 24 horas",
+    "url": ""
+  },
+  "business": {
+    "legalName": "",
+    "cnpj": "",
+    "location": ""
+  },
+  "launch": {
+    "showFounders": true,
+    "foundersLimit": 10,
+    "foundersRemaining": null
+  },
+  "seo": {
+    "brandColor": "#0b141b",
+    "googleSearchConsoleVerification": ""
+  },
+  "whatsappUrl": "https://wa.me/5564992941121?text=Ol%C3%A1!%20tenho%20interesse%20em%20adquirir%20o%20FixFlowOS."
+}

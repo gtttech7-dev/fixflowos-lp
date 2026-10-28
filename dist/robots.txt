@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Configure siteUrl em config/site.json e execute o build novamente para publicar no Google.

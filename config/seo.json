@@ -1,0 +1,8 @@
+{
+  "home": {"title": "FixFlowOS | Sistema de Ordem de Serviço para Assistência Técnica", "description": "Gerencie ordens de serviço, clientes, estoque, caixa e financeiro da sua assistência técnica de celulares com o FixFlowOS. Conheça o sistema e os planos."},
+  "orders": {"title": "Sistema de Ordem de Serviço para Assistência Técnica | FixFlowOS", "description": "Organize consertos de celulares com ordens de serviço em lista e Kanban, cadastro de aparelhos, responsáveis, etapas e informações de atendimento."},
+  "features": {"title": "Funcionalidades do FixFlowOS | Gestão de Assistência Técnica", "description": "Conheça as funcionalidades reais do FixFlowOS: ordens de serviço, estoque, aparelhos para revenda, clientes, vendas, finanças, equipe e relatórios."},
+  "plans": {"title": "Planos e Preços do FixFlowOS | Mensal, Trimestral e Anual", "description": "Confira os planos de acesso ao FixFlowOS para assistências técnicas de celulares. Compare periodicidades, usuários incluídos e condições de contratação."},
+  "blog": {"title": "Blog FixFlowOS | Dicas para Assistências Técnicas de Celulares", "description": "Guias práticos sobre ordens de serviço, estoque, controle financeiro e gestão de assistências técnicas de celulares."},
+  "contact": {"title": "Contato e Atendimento | FixFlowOS", "description": "Fale com a equipe do FixFlowOS e saiba mais sobre o software de gestão para assistências técnicas de celulares."}
+}

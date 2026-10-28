@@ -1,0 +1,33 @@
+{
+  "enabled": true,
+  "eyebrow": "COMPARATIVO DE MERCADO",
+  "title": "Especializado em assistência técnica ou adaptado de outro tipo de negócio?",
+  "description": "Veja como o foco do FixFlowOS se relaciona com necessidades comuns de quem conserta celulares.",
+  "columns": {
+    "fixflowos": "FixFlowOS",
+    "other": "Sistemas genéricos (categoria ilustrativa)"
+  },
+  "rows": [
+    {
+      "name": "Facilidade de uso na rotina da assistência",
+      "fixflowos": "Interface criada para fluxos de assistência técnica",
+      "other": "Experiência varia conforme o sistema e sua configuração"
+    },
+    {
+      "name": "Gestão de ordens de serviço",
+      "fixflowos": "Lista, Kanban, etapas e histórico de reparos",
+      "other": "Fluxos e recursos de OS podem variar"
+    },
+    {
+      "name": "Gestão financeira da assistência",
+      "fixflowos": "Caixa, receitas, despesas e relatórios em um só ambiente",
+      "other": "Integração financeira depende da solução escolhida"
+    },
+    {
+      "name": "Celulares próprios para revenda",
+      "fixflowos": "Custos, preço pretendido e margem estimada",
+      "other": "Pode exigir adaptações ou ferramentas separadas"
+    }
+  ],
+  "disclaimer": "Quadro ilustrativo de posicionamento e recursos do FixFlowOS. Não é pesquisa de satisfação, ranking independente, avaliação de concorrentes ou prova de superioridade universal."
+}
